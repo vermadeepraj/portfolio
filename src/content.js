@@ -99,7 +99,7 @@ export const content = {
 
   socials: [
     { label: 'GitHub', url: 'https://github.com/vermadeepraj' },
-    { label: 'LinkedIn', url: 'https://www.linkedin.com/in/deep-raj-4a84961ba/' },
+    { label: 'LinkedIn', url: 'https://www.linkedin.com/in/deeprajdev/' },
     { label: 'Resume', url: '/resume.pdf' },
   ],
 }
